@@ -1,0 +1,1 @@
+Exercicío contendo os conceitos de Enumeração e Composição em C#.

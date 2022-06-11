@@ -1,0 +1,13 @@
+C:\Users\mateu\source\repos\EnumAndComp\EnumAndComp\obj\Debug\netcoreapp3.1\EnumAndComp.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\EnumAndComp\EnumAndComp\obj\Debug\netcoreapp3.1\EnumAndComp.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\EnumAndComp\EnumAndComp\obj\Debug\netcoreapp3.1\EnumAndComp.AssemblyInfo.cs
+C:\Users\mateu\source\repos\EnumAndComp\EnumAndComp\obj\Debug\netcoreapp3.1\EnumAndComp.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\EnumAndComp\EnumAndComp\bin\Debug\netcoreapp3.1\EnumAndComp.exe
+C:\Users\mateu\source\repos\EnumAndComp\EnumAndComp\bin\Debug\netcoreapp3.1\EnumAndComp.deps.json
+C:\Users\mateu\source\repos\EnumAndComp\EnumAndComp\bin\Debug\netcoreapp3.1\EnumAndComp.runtimeconfig.json
+C:\Users\mateu\source\repos\EnumAndComp\EnumAndComp\bin\Debug\netcoreapp3.1\EnumAndComp.runtimeconfig.dev.json
+C:\Users\mateu\source\repos\EnumAndComp\EnumAndComp\bin\Debug\netcoreapp3.1\EnumAndComp.dll
+C:\Users\mateu\source\repos\EnumAndComp\EnumAndComp\bin\Debug\netcoreapp3.1\EnumAndComp.pdb
+C:\Users\mateu\source\repos\EnumAndComp\EnumAndComp\obj\Debug\netcoreapp3.1\EnumAndComp.dll
+C:\Users\mateu\source\repos\EnumAndComp\EnumAndComp\obj\Debug\netcoreapp3.1\EnumAndComp.pdb
+C:\Users\mateu\source\repos\EnumAndComp\EnumAndComp\obj\Debug\netcoreapp3.1\EnumAndComp.genruntimeconfig.cache
